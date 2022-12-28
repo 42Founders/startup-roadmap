@@ -5,6 +5,7 @@
 
 [DMC리포트](https://page.stibee.com/subscriptions/117718) - 디지털 미디어 & 마케팅 분야 최신 리포트 정보\
 [HBR레터](https://page.stibee.com/subscriptions/79846) - 하버드비즈니스리뷰\
+[Platum](https://platum.kr/) - Platum 스타트업 스토리 플랫폼 \
 [K-STARTUP](https://www.k-startup.go.kr/web/contents/webCARD_NEWS.do) - (예비)창업자를 위한 서비스를 지원\
 [STARTUP WEEKLY](http://glance.media/subscription/subscribe) - 스타트업 소식 및 일정\
 [기업가정신 NOW](https://page.stibee.com/subscriptions/80029) - 기업가정신 관련 뉴스 소개\
