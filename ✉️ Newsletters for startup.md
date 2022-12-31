@@ -26,33 +26,9 @@
 [이벤터스](https://event-us.kr/) - 행사를 개최 플랫폼\
 [주간 컴퍼니타임스](https://page.stibee.com/subscriptions/191598) - 잡플래닛이 만드는 MZ 세대 취준생·직장인을 위한 미디어\
 [큐레터](https://www.qletter.co.kr/subscribe/?utm_source=newsletter&utm_campaign=media_info&utm_medium=qletter) - 마케터를 위한 마케팅 트렌드, 뉴스, 도서 정보\
+[테크니들](https://techneedle.com/newsletter) - 글로벌 테크 소식과 인사이트\
 [혁신의숲](https://innoforest.stibee.com/) - 스타트업 성장분석 플랫폼\
 
 ---
 
 > 새로 추가할 내용은 순서에 맞게 넣어주시길 바랍니다. ([사이트](https://alphabetizer.flap.tv/) 활용 추천)
-
-##### 정렬용
-DMC리포트
-HBR레터
-K-STARTUP
-STARTUP WEEKLY
-기업가정신 NOW
-길이음
-낭만투자파트너스
-뉴본컨설팅
-데브IT(잇)냥
-로스규이
-로켓레터
-마일스톤레터
-모비인사이드
-미라클레터
-서울산업진흥원
-센서블박스 위클리
-스타트업얼라이언스
-요즘IT
-이노핏파트너스
-이벤터스
-주간 컴퍼니타임스
-큐레터
-혁신의숲

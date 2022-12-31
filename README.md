@@ -19,7 +19,7 @@ md(Markdown)에 대한 학습이 필요하시다면 아래를 방문해주세요
 42 SEOUL 본과정생 중에서 창업을 하기 위해 42에 오신 분이라면 저희와 함께 창업에 대한 목표를 이뤄보는 건 어떨까요?\
 만약 42 Founders에 들어오길 희망한다면 42born2code Slack에서 저희를 찾아주세요! 🙇🏻‍♂️🙇🏻‍♀️
 
-🏛 The member of 42 Founders\
+🏛 The members of 42 Founders\
 jaehulee
 jibang
 jokang
