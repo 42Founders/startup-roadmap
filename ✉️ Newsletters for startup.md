@@ -27,7 +27,7 @@
 [주간 컴퍼니타임스](https://page.stibee.com/subscriptions/191598) - 잡플래닛이 만드는 MZ 세대 취준생·직장인을 위한 미디어\
 [큐레터](https://www.qletter.co.kr/subscribe/?utm_source=newsletter&utm_campaign=media_info&utm_medium=qletter) - 마케터를 위한 마케팅 트렌드, 뉴스, 도서 정보\
 [테크니들](https://techneedle.com/newsletter) - 글로벌 테크 소식과 인사이트\
-[혁신의숲](https://innoforest.stibee.com/) - 스타트업 성장분석 플랫폼\
+[혁신의숲](https://innoforest.stibee.com/) - 스타트업 성장분석 플랫폼
 
 ---
 

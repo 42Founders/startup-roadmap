@@ -20,6 +20,7 @@ md(Markdown)에 대한 학습이 필요하시다면 아래를 방문해주세요
 만약 42 Founders에 들어오길 희망한다면 42born2code Slack에서 저희를 찾아주세요! 🙇🏻‍♂️🙇🏻‍♀️
 
 🏛 The members of 42 Founders\
+alee
 jaehulee
 jibang
 jokang
