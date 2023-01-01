@@ -12,6 +12,7 @@
 [넥스트유니콘](https://www.nextunicorn.kr/) - 스타트업 전문투자자 연결 플랫폼\
 [누구머니](https://nugu.money/) - 스타트업 창업자들이 남기는 VC 리뷰\
 [디스콰이엇](https://disquiet.io/) - IT 서비스 메이커들의 소셜 네트워크\
+[버티컬 플랫폼](https://verticalplatform.kr/) - 더인벤션랩에서 운영하는 사이트로 컬럼과 인사이트 제공\
 [벤처스퀘어](https://www.venturesquare.net/) - 스타트업 전문 미디어\
 [스타트업 창업지원 법무플랫폼](https://9988law.com/startlaw/web/main.do) - 중소기업을 위한 법률문제 해결을 위한 지원 (정부)\
 [스타트업얼라이언스](https://www.startupall.kr/) - 스타트업 생태계 활성화를 도모\
