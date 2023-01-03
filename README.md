@@ -28,8 +28,11 @@ jseo
 junselee
 kiyolee
 mgo
+mijeong
+sangtale
 seongyle
 seungsle
 sunhwang
+susong
 ulee
 yukwak
