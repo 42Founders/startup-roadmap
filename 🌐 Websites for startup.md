@@ -19,6 +19,7 @@
 [스타트업투데이](https://www.startuptoday.kr/) - 스타트업 전문 미디어\
 [언더독스](https://underdogs.co.kr/) - 창업 콘텐츠&커뮤니티 기업\
 [인사이터](https://insight-er.com/) - 직장인, 창업가를 위한 비즈니스 커뮤니티\
+[중소기업현황정보시스템](https://sminfo.mss.go.kr/) - 전자공시와 비슷하게 회사 현황 확인 가능\
 [중소벤처 24](https://www.smes.go.kr/) - 기업지원 통합서비스 플랫폼 (정부)\
 [중소벤처기업부](https://www.mss.go.kr/) - 중소기업의 정책을 지원하는 중앙행정기관 (정부)\
 [중소벤처기업진흥공단](https://kosmes.or.kr/sbc/SH/MAP/SHMAP002M0.do) - 중소기업의 생산성 향상 및 경쟁력 지원 (정부)\
