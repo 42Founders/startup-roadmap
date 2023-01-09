@@ -16,6 +16,9 @@
 예비창업시기 -> 업력 3년 이내 -> 업력 3~7년 이내 -> 업력 7년 이상 (정부지원사업 기준)\
 창업 단계 -> 성장 단계 -> 성숙 단계 -> 재활성화(성장, 유지, 쇠퇴) 단계 (기업 성장 기준)\
 아이디어 발굴 -> 사업 모델 수립 -> 사업성 검토 -> 제품 개발 및 고객확보 -> 고객유지 및 사업확장 (벤처 창업/성장 과정)
+Start with a Great Idea -> Make a Business Plan -> Secure Funding for Your Startup ->Surround Yourself With the Right People -> Make Sure You're Following All the Legal Steps -> Establish a Location (Physical and Online) -> Develop a Marketing Plan -> Build a Customer Base -> Plan to Change
+
+고려요소: 비즈니스 모델수립, 목표시장, 시장세분화, 목표고객, 고객세분화, 구매결정요소, 차별화 전략, 마케팅전략, SNS 마케팅, 고객 서비스 등..
 
 # 아이디어 구상
 어떤 문제를 발견하거나 좋은 아이디어를 포착하는 순간을 잡기
