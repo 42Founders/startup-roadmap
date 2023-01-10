@@ -8,7 +8,6 @@
 		{"id":"7e0080341411baf5","x":-1767,"y":-1023,"width":352,"height":75,"color":"3","type":"text","text":"# 🚀 Startup Roadmap"},
 		{"id":"323bc8e94a2f1358","x":-1767,"y":-740,"width":298,"height":73,"type":"text","text":"# 창업을 생각한 순간"},
 		{"id":"adc4edab6d7bcc51","x":-2140,"y":-785,"width":250,"height":60,"type":"text","text":"## 아이디어 구상"},
-		{"id":"1a42e28bf54c9f09","x":-1767,"y":-1189,"width":390,"height":78,"type":"text","text":"roadmap.sh 처럼 할지 계단 형식으로 할지.."},
 		{"id":"a9ebe2333e6c49f8","x":-2275,"y":-700,"width":385,"height":67,"type":"text","text":"## 아이디어에서 아이템으로 만들기"},
 		{"id":"f8e24a0d8fa8cc17","x":-580,"y":-311,"width":311,"height":58,"type":"text","text":"### 창업을 생각하는 순간"},
 		{"id":"d03c0e7f9fe6cb25","x":20,"y":-446,"width":288,"height":61,"type":"text","text":"### 아이디어 구상"},
@@ -34,7 +33,11 @@
 		{"id":"d4ec93c3968433dc","x":-1915,"y":1158,"width":250,"height":60,"type":"text","text":"# 창업 중기"},
 		{"id":"2469f0c46aa51f3e","x":-1725,"y":1529,"width":250,"height":60,"type":"text","text":"# 창업 후기"},
 		{"id":"7209ce120e64c9e0","x":-1886,"y":1874,"width":250,"height":60,"type":"text","text":"# 창업 이후"},
-		{"id":"908eb40cf146ca68","x":-1886,"y":2232,"width":490,"height":84,"color":"3","type":"text","text":"# 🛣 Keep running your business!"}
+		{"id":"908eb40cf146ca68","x":-1886,"y":2232,"width":490,"height":84,"color":"3","type":"text","text":"# 🛣 Keep running your business!"},
+		{"id":"8ebdb9204ad28192","x":-1568,"y":392,"width":250,"height":60,"type":"text","text":"# 여기까지 "},
+		{"id":"d42db356f337822f","x":-2612,"y":-453,"width":369,"height":120,"color":"5","type":"text","text":"\b로드맵 어느정도 만들었으니, 더 추가해서 가닥 잡기!\n\n화요일 4시쯤 지하 1층에서 설명하기~\n로드맵 소개, 로드맵 그리는 법, 로드맵 말고 공유할 내용 노션에 어떻게 쓸지"},
+		{"id":"cc892fbfc881346c","x":-2296,"y":-595,"width":406,"height":50,"color":"1","type":"text","text":"## 사업적 가치에 대한 고민 시작하기"},
+		{"id":"ea0d8057c5afd840","x":-1767,"y":-840,"width":113,"height":55,"color":"5","type":"text","text":"## 1 단계"}
 	],
 	"edges":[
 		{"id":"f93dd6e61c1009a3","fromNode":"f8e24a0d8fa8cc17","fromSide":"right","toNode":"d03c0e7f9fe6cb25","toSide":"left","color":"6","label":"1"},
@@ -56,6 +59,9 @@
 		{"id":"947887cbda86f699","fromNode":"fddea8529cb6fe9d","fromSide":"bottom","toNode":"d4ec93c3968433dc","toSide":"top","color":"3","label":"7"},
 		{"id":"8295fade64e4fbf5","fromNode":"d4ec93c3968433dc","fromSide":"bottom","toNode":"2469f0c46aa51f3e","toSide":"top","color":"3","label":"8"},
 		{"id":"f54beb80f60eed56","fromNode":"2469f0c46aa51f3e","fromSide":"bottom","toNode":"7209ce120e64c9e0","toSide":"top","color":"3","label":"9"},
-		{"id":"8dad22cab908d44a","fromNode":"7209ce120e64c9e0","fromSide":"bottom","toNode":"908eb40cf146ca68","toSide":"top","color":"3"}
+		{"id":"8dad22cab908d44a","fromNode":"7209ce120e64c9e0","fromSide":"bottom","toNode":"908eb40cf146ca68","toSide":"top","color":"3"},
+		{"id":"9be3c4ebf7def254","fromNode":"ea0d8057c5afd840","fromSide":"bottom","toNode":"323bc8e94a2f1358","toSide":"top","color":"5"},
+		{"id":"05795a0fad37be30","fromNode":"cc892fbfc881346c","fromSide":"right","toNode":"323bc8e94a2f1358","toSide":"left"},
+		{"id":"a1355e8683c96852","fromNode":"c8a6ec329859047d","fromSide":"bottom","toNode":"8ebdb9204ad28192","toSide":"top"}
 	]
 }
