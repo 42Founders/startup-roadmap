@@ -8,12 +8,14 @@
 [K-ICT 창업멘토링센터](http://gomentoring.or.kr/) - 한국청년기업가정신재단이 운영하는 창업멘토링, 교육 전문기관\
 [K-Startup](https://www.k-startup.go.kr/) - (예비)창업자를 위한 서비스 지원 (정부)\
 [K-유니콘](https://www.k-unicorn.or.kr/index.php) - 유니콘 후보기업을 집중발굴, 스케일업 지원 (정부)\
+[THE VC](https://thevc.kr/) - 한국 스타트업 투자 데이터베이스\
 [TIPS 프로그램](http://jointips.or.kr/) - 민간주도로 선발 후 미래유망 창업기업 집중 육성을 지원 (정부)\
 [넥스트유니콘](https://www.nextunicorn.kr/) - 스타트업 전문투자자 연결 플랫폼\
 [누구머니](https://nugu.money/) - 스타트업 창업자들이 남기는 VC 리뷰\
 [디스콰이엇](https://disquiet.io/) - IT 서비스 메이커들의 소셜 네트워크\
 [버티컬 플랫폼](https://verticalplatform.kr/) - 더인벤션랩에서 운영하는 사이트로 컬럼과 인사이트 제공\
 [벤처스퀘어](https://www.venturesquare.net/) - 스타트업 전문 미디어\
+[벤처투자종합포털](https://www.vcs.go.kr/) - 정부에서 만든 THE VC\
 [스타트업 창업지원 법무플랫폼](https://9988law.com/startlaw/web/main.do) - 중소기업을 위한 법률문제 해결을 위한 지원 (정부)\
 [스타트업얼라이언스](https://www.startupall.kr/) - 스타트업 생태계 활성화를 도모\
 [스타트업투데이](https://www.startuptoday.kr/) - 스타트업 전문 미디어\
