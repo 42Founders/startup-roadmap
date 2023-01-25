@@ -143,7 +143,13 @@
 		{"id":"fab2f00eb35bd819","x":-1889,"y":2582,"width":250,"height":60,"type":"text","text":"## [[시리즈 C 투자받기]]"},
 		{"id":"ee15cc04b7f39acf","x":-1251,"y":2629,"width":199,"height":50,"color":"5","type":"text","text":"### 4. 사업유지 단계"},
 		{"id":"cdcca639959e3bfe","x":-1566,"y":2728,"width":250,"height":60,"type":"text","text":"# more..."},
-		{"id":"7adb37e35950415f","x":-2446,"y":2825,"width":250,"height":60,"type":"text","text":"### 사전준비"}
+		{"id":"7adb37e35950415f","x":-2446,"y":2825,"width":250,"height":60,"type":"text","text":"### 사전준비"},
+		{"id":"965131d39533b9e1","x":781,"y":1800,"width":250,"height":60,"type":"text","text":"# 마케팅"},
+		{"id":"490e18afd4bacb71","x":438,"y":1715,"width":250,"height":60,"type":"text","text":"## A/B 테스트"},
+		{"id":"ebac6d7b1f855a50","x":438,"y":1770,"width":250,"height":60,"type":"text","text":"## 그로스마케팅"},
+		{"id":"880bd38793502272","x":438,"y":1830,"width":250,"height":60,"type":"text","text":"## 팬덤 형성하기"},
+		{"id":"3fda5c894cf920ae","x":438,"y":1890,"width":250,"height":60,"type":"text","text":"## STP 전략"},
+		{"id":"d6b7cb34e1cf2017","x":438,"y":1946,"width":250,"height":60,"type":"text","text":"## Chasm 마케팅"}
 	],
 	"edges":[
 		{"id":"1e968a2bb11bf9d3","fromNode":"7e0080341411baf5","fromSide":"bottom","toNode":"323bc8e94a2f1358","toSide":"top","color":"3"},
@@ -267,6 +273,11 @@
 		{"id":"8b4e86db55da7426","fromNode":"01c325b253fb8e6a","fromSide":"bottom","toNode":"d4ec93c3968433dc","toSide":"top","color":"6"},
 		{"id":"96a830849e2f552a","fromNode":"28330cdb414bb55e","fromSide":"bottom","toNode":"cae0c67d15249f50","toSide":"top","color":"6"},
 		{"id":"caf439cb1bdb4e78","fromNode":"1310ed8f30706790","fromSide":"bottom","toNode":"c2bed25dd675e78e","toSide":"top","color":"6"},
-		{"id":"4b9e14c72c2680b4","fromNode":"ecdb9a2fd2cd52ac","fromSide":"bottom","toNode":"af1651cda6db66e9","toSide":"top","color":"6"}
+		{"id":"4b9e14c72c2680b4","fromNode":"ecdb9a2fd2cd52ac","fromSide":"bottom","toNode":"af1651cda6db66e9","toSide":"top","color":"6"},
+		{"id":"600e58bdecd7d631","fromNode":"490e18afd4bacb71","fromSide":"right","toNode":"965131d39533b9e1","toSide":"left"},
+		{"id":"b66c5535ad9ff46c","fromNode":"ebac6d7b1f855a50","fromSide":"right","toNode":"965131d39533b9e1","toSide":"left"},
+		{"id":"8e52fd73857286f1","fromNode":"880bd38793502272","fromSide":"right","toNode":"965131d39533b9e1","toSide":"left"},
+		{"id":"6310e5a304966bb5","fromNode":"3fda5c894cf920ae","fromSide":"right","toNode":"965131d39533b9e1","toSide":"left"},
+		{"id":"9359677ac5b95c03","fromNode":"d6b7cb34e1cf2017","fromSide":"right","toNode":"965131d39533b9e1","toSide":"left"}
 	]
 }
