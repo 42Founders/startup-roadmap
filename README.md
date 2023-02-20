@@ -21,20 +21,28 @@ md(Markdown)에 대한 학습이 필요하시다면 아래를 방문해주세요
 
 🏛 The members of 42 Founders\
 alee
+dllee
+hahseo
 jaehulee
 jibang
 jokang
 jseo
+juha
 junselee
 kiyolee
+kyoulee
 mgo
 mher
 mijeong
 sangtale
+seonghle
+seongspa
 seongyle
+seoyoo
 seungsle
 sunhwang
 susong
+tyi
 ulee
 wchae
 yukwak
