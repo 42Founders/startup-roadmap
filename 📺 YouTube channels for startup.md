@@ -4,6 +4,7 @@
 링크를 찾을 수 없는 경우는 임의로 설정된 핸들이 바뀌었을 가능성이 큽니다. 핸들(@) 링크로 추가해주시길 바랍니다. 🙇‍♂️🙇‍♀️
 
 [BZCF](https://www.youtube.com/@B_ZCF) - 비즈니스, 투자, 스타트업과 동기부여\
+[Demo Day](https://www.youtube.com/@DemoDaySV) - 실리콘밸리 생태계와 스타트업 창업, 투자 소개\
 [EBS 비즈니스 리뷰](https://www.youtube.com/@ebs3351) - 리더가 알아야 할 경영 인사이트\
 [EO 이오](https://www.youtube.com/@eo_studio) - 스타트업 콘텐츠 전문\
 [KOEF한국청년기업가정신재단](https://www.youtube.com/@KOEF) - 기업가정신 교육 로드맵\

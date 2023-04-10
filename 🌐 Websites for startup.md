@@ -3,6 +3,7 @@
 사이트의 홈페이지 링크를 걸어뒀습니다. 링크를 찾을 수 없는 경우엔 수정하셔도 좋습니다. 😃
 
 [10x Lessons](https://tkim.co/) - 김태현 대표의 개인 블로그\
+[Demoday](https://www.demodaysv.com/) - 유튜브, 뉴레터로 소통하는 more available  VC\
 [HR블레틴](https://hrbulletin.net/) - 조직문화 아티클 제공\
 [How to Start a Startup](http://startupclass.samaltman.com/) - 스타트업 관련 영상을 모아놓은 해외 사이트\
 [ICT CoC](https://www.ictcoc.kr/) - 미래 ICT 혁신인재와 기업 양성 (정부)\
