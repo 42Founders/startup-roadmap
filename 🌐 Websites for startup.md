@@ -22,6 +22,7 @@
 [스타트업얼라이언스](https://www.startupall.kr/) - 스타트업 생태계 활성화를 도모\
 [스타트업투데이](https://www.startuptoday.kr/) - 스타트업 전문 미디어\
 [언더독스](https://underdogs.co.kr/) - 창업 콘텐츠&커뮤니티 기업\
+[오렌지플래닛](https://orangeplanet.or.kr/main) - 스마일게이트 그룹의 창업재단\
 [인사이터](https://insight-er.com/) - 직장인, 창업가를 위한 비즈니스 커뮤니티\
 [중소기업현황정보시스템](https://sminfo.mss.go.kr/) - 전자공시와 비슷하게 회사 현황 확인 가능\
 [중소벤처 24](https://www.smes.go.kr/) - 기업지원 통합서비스 플랫폼 (정부)\
